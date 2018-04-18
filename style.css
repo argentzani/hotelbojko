@@ -152,19 +152,6 @@ nav{
 	width: 39%;
 	height: 400px;
 	float: left;
-	background-image: url("img/b.png");
-	background-size: auto 200px;
-	background-position: center;
-	background-repeat: no-repeat;
-	opacity: 0;
-}
-
-@media only screen and (max-width: 630px) {
-    .cover-bg-left{
-    	background-size: 80%;
-    	opacity: 0;
-    	
-    }
 }
 
 .cover-bg-right{
